@@ -1,5 +1,7 @@
 # ePaper Messenger
 
+🇮🇩 Bahasa Indonesia | [🇬🇧 English](README.en.md)
+
 ESP32 + WeAct Studio 2.13" ePaper display project built with ESP-IDF.  
 Menampilkan informasi WiFi, IP, kualitas sinyal, dan system info dalam mode **landscape 250×128**.
 
